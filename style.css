@@ -3,24 +3,27 @@ h1 {
 }
 h2 {
   text-align: center;
+  color:black;
+}
+ol {
+  color:black;
+  font-weight: bold;
+  font-size:20px;
 }
 p {
   font-weight: bold;
   font-size: 20px;
   text-align: center;
+  color:black;
 }
 body {
    font-family: 'Courier New';
-  background-color: rgb(255, 240, 231);
-  color: rgb(179, 126, 93);
+  background-color: #fff0e7;
+  color: #ffffff;
 }
 h1 {
   text-shadow: 2px 0 #332205, -2px 0 #332205, 0 2px #332205, 0 -2px #332205,
                1px 1px #332205, -1px -1px #332205, 1px -1px #332205, -1px 1px #332205;
-}
-.img_container {
-    width: 100%;
-    text-align: center;
 }
 .imageborder
 {
@@ -28,5 +31,7 @@ h1 {
     border-width: 5px;
     border-color: Black;
 }
-
-
+.imgs {
+  float: left;
+  text-align:center
+}
