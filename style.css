@@ -1,3 +1,32 @@
 h1 {
-  text-decoration: underline;
+  text-align: center;
 }
+h2 {
+  text-align: center;
+}
+p {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+body {
+   font-family: 'Courier New';
+  background-color: rgb(255, 240, 231);
+  color: rgb(179, 126, 93);
+}
+h1 {
+  text-shadow: 2px 0 #332205, -2px 0 #332205, 0 2px #332205, 0 -2px #332205,
+               1px 1px #332205, -1px -1px #332205, 1px -1px #332205, -1px 1px #332205;
+}
+.img_container {
+    width: 100%;
+    text-align: center;
+}
+.imageborder
+{
+    border-style:solid;
+    border-width: 5px;
+    border-color: Black;
+}
+
+
