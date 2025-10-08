@@ -21,6 +21,7 @@ body {
   background-color: #fff0e7;
   color: #ffffff;
 }
+/* This is the new CSS property I'm using on line 26! */
 h1 {
   text-shadow: 2px 0 #332205, -2px 0 #332205, 0 2px #332205, 0 -2px #332205,
                1px 1px #332205, -1px -1px #332205, 1px -1px #332205, -1px 1px #332205;
