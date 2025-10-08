@@ -1,44 +1,51 @@
 h1 {
   text-align: center;
-  text-shadow: 2px 0 #332205, -2px 0 #332205, 0 2px #332205, 0 -2px #332205, /* This is the new CSS property I'm using on line 3! */
-               1px 1px #332205, -1px -1px #332205, 1px -1px #332205, -1px 1px #332205;
+  text-shadow: 2px 0 #332205, -2px 0 #332205, 0 2px #332205, 0 -2px #332205,
+    /* This is the new CSS property I'm using on line 3! */
+    1px 1px #332205, -1px -1px #332205, 1px -1px #332205, -1px 1px #332205;
 }
+
 h2 {
   text-align: center;
-  color:black;
+  color: black;
 }
+
 ul {
-  color:black;
+  color: black;
   font-weight: bold;
-  font-size:20px;
+  font-size: 20px;
   text-align: center;
   list-style-position: inside;
 }
+
 ol {
-color:black;
-font-size:18px;
-font-weight: bold;
-text-align: center;
-list-style-position: inside;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  list-style-position: inside;
 }
+
 p {
   font-weight: bold;
   font-size: 20px;
   text-align: center;
-  color:black;
+  color: black;
 }
+
 body {
-   font-family: 'Courier New';
+  font-family: 'Courier New';
   background-color: #fff0e7;
   color: #ffffff;
 }
-.imageborder
-{
-    border-style:solid;
-    border-width: 5px;
-    border-color: Black;
+
+.imageborder {
+  border-style: solid;
+  border-width: 5px;
+  border-color: Black;
 }
+
 .imgs {
   float: left;
-  text-align:center
+  text-align: center
 }
